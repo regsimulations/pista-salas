@@ -1,5 +1,20 @@
 {
   "servidores": [
+	{
+      "id": "pistaServerPropio",
+      "logo": "serverPropio",
+      "nombre": "Server Propio",
+      "subtitulo": "",
+      "direccion": "localhost",
+      "puertoJuego": 7777,
+      "circuito": "Termas",
+      "categorias": ["Libre"],
+      "modo": "Trackday",
+      "jugadores": -1,
+      "capacidad": 30,
+      "protocolo": 20,
+      "abierto": true
+    },
     {
       "id": "pistaServer1",
       "logo": "server1",
