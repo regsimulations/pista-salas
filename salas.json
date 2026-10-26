@@ -3,9 +3,9 @@
     {
       "id": "pistaServer1",
       "logo": "server1",
-      "nombre": "Servidor 1",
-      "subtitulo": "SERVIDOR DE LA COMUNIDAD",
-      "direccion": "TU_IP_PUBLICA",
+      "nombre": "Server 1",
+      "subtitulo": "",
+      "direccion": "181.231.225.133",
       "puertoJuego": 7777,
       "circuito": "Termas",
       "categorias": ["Libre"],
