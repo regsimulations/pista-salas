@@ -1,0 +1,19 @@
+{
+  "servidores": [
+    {
+      "id": "pistaServer1",
+      "logo": "server1",
+      "nombre": "Servidor 1",
+      "subtitulo": "SERVIDOR DE LA COMUNIDAD",
+      "direccion": "TU_IP_PUBLICA",
+      "puertoJuego": 7777,
+      "circuito": "Termas",
+      "categorias": ["Libre"],
+      "modo": "Trackday",
+      "jugadores": -1,
+      "capacidad": 30,
+      "protocolo": 20,
+      "abierto": true
+    }
+  ]
+}
