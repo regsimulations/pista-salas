@@ -5,7 +5,7 @@
       "logo": "serverPropio",
       "nombre": "Server Propio",
       "subtitulo": "",
-      "direccion": "localhost",
+      "direccion": "26.103.174.230",
       "puertoJuego": 7777,
       "circuito": "Termas",
       "categorias": ["Libre"],
