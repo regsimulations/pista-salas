@@ -6,7 +6,7 @@
       "nombre": "Server Propio",
       "subtitulo": "",
       "direccion": "26.103.174.230",
-      "puertoJuego": 7777,
+      "puertoJuego": 7779,
       "circuito": "Termas",
       "categorias": ["Libre"],
       "modo": "Trackday",
