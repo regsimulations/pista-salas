@@ -31,9 +31,9 @@
       "abierto": true
     },
 	{
-      "id": "pistaServerKart",
-      "logo": "serverKart",
-      "nombre": "Server Kart",
+      "id": "pistaServerProcar",
+      "logo": "serverProcar",
+      "nombre": "Server Procar 4000",
       "subtitulo": "",
       "direccion": "181.231.225.133",
       "puertoJuego": 7779,
