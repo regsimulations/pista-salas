@@ -16,9 +16,9 @@
       "abierto": true
     },
 	{
-      "id": "pistaServerFormula",
-      "logo": "serverFormula",
-      "nombre": "Server Formula",
+      "id": "pistaServerTP",
+      "logo": "serverTP",
+      "nombre": "Server Turismo Pista",
       "subtitulo": "",
       "direccion": "181.231.225.133",
       "puertoJuego": 7778,
