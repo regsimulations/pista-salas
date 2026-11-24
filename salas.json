@@ -59,6 +59,21 @@
       "capacidad": 30,
       "protocolo": 20,
       "abierto": true
+    },
+	{
+      "id": "pistaServerTNP",
+      "logo": "serverTNP",
+      "nombre": "@tnp.thenewproject - Torneo TP Clase 1",
+      "subtitulo": "",
+      "direccion": "181.231.225.133",
+      "puertoJuego": 7781,
+      "circuito": "Termas",
+      "categorias": ["Libre"],
+      "modo": "Trackday",
+      "jugadores": -1,
+      "capacidad": 30,
+      "protocolo": 20,
+      "abierto": true
     }
   ]
 }
